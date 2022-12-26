@@ -20,9 +20,9 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    'I am a professional full-stack developer with more than two years of experience in the business development process and freelancing projects. I completed SE specialized BSc (Hons) IT Degree at SLIIT. I like JavaScript programming language and use few Javascript frameworks React, React Native, Gatsby, and Next.js. I like to learn new technologies and quickly adapt to the working environment.',
+    'I am a professional full-stack developer with more than three years of experience in the business development process and freelancing projects. I completed SE specialized BSc (Hons) IT Degree at SLIIT. I like JavaScript programming language and use few Javascript frameworks React, React Native, Gatsby, and Next.js. I like to learn new technologies and quickly adapt to the working environment.',
   paragraphTwo:
-    'I had worked for three companies since 2019. I did an 8-month intern at Wijeyanewspapers. I worked on Gottamenu.app project at spraklabs. Last Year I worked on several industrial projects at EIS. At the moment, I have handled industrial, Research, Assessment, and Documentary projects under Web and Mobile Applications. In the project section, a few of them are added.',
+    'I had worked for three companies since 2019. I did an 8-month intern at Wijeyanewspapers. I worked on Gottamenu.app project at spraklabs. I worked on several industrial projects at EIS. Last Year I worked at Appspotr. At the moment, I have handled industrial, Research, Assessment, and Documentary projects under Web and Mobile Applications. In the project section, a few of them are added.',
   paragraphThree: 'If you want to download my resume, please click the bellow button',
   resume: 'https://drive.google.com/file/d/1Blob2YLtQZ7_AA4kMSjLaB7hpCctbJEL/view?usp=sharing', // if no resume, the button will not show up
 };
